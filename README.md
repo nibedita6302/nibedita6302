@@ -1,5 +1,12 @@
-### Hi there 👋
-
+<h1>Hi there 👋</h1>
+<table align="center" border="0">
+  <td>
+    <p>Nice to meet ya all! Make sure to visit all repositories and contribute where every you can!😊</p>
+  </td>
+  <td>
+    <img alt="tech_girl_gif" align="right" src="https://github.com/nibedita6302/nibedita6302/assets/145376728/b0d6e26a-6c93-4bcd-bc7f-0827edd6265e"/>
+  </td>
+</table>
 <!--
 **nibedita6302/nibedita6302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
