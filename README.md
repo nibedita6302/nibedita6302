@@ -1,4 +1,5 @@
-<h1>Hi there 👋</h1>
+<img alt="banner" align="center" height="350" width="1200" src="https://github.com/nibedita6302/nibedita6302/assets/145376728/820c1b8d-2e5b-4cae-a369-be9e64e24ff4">
+<br><br>
 <table align="center" border="0">
   <td>
     <p>Nice to meet ya all! Make sure to visit all repositories and contribute where every you can!😊</p>
@@ -7,6 +8,7 @@
     <img alt="tech_girl_gif" align="right" src="https://github.com/nibedita6302/nibedita6302/assets/145376728/b0d6e26a-6c93-4bcd-bc7f-0827edd6265e"/>
   </td>
 </table>
+
 <!--
 **nibedita6302/nibedita6302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
