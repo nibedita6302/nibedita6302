@@ -1,8 +1,9 @@
+<h1 align="center">Welcome to Nibedita's Github Profile</h1>
 <td>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=forte&weight=30&size=30&duration=2000&pause=800&color=F400F7&center=true&vCenter=true&random=false&width=500&height=100&lines=Hello+there%F0%9F%91%8B;I+am+Nibedita+Chakraborty;You+are+meeting+an+...;Engineer+%26+Developer;Make+Sure+to+visit+all+repos+%E2%9C%8C;See+ya!+%F0%9F%98%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=times&weight=200&size=25&duration=2200&pause=850&background=FFC4F612&color=F400F7&center=true&vCenter=true&random=false&width=800&height=170&lines=I+am+a+very+curious+and+creative+Engineer+%F0%9F%A4%AF;With+strong+foundations+in+%F0%9F%92%AA+...;Data+Structures+,+DBMS+and+Linux;Proficient+in+Backend+development+and;Image+Processing+%F0%9F%91%8C;Learning+about+Data+Science+,+AI+and+ML" alt="Typing SVG" /></a>
 </td>
 <td>
-  <img alt="tech_girl_gif" align="right" src="https://github.com/nibedita6302/nibedita6302/assets/145376728/b0d6e26a-6c93-4bcd-bc7f-0827edd6265e"/>
+  <img alt="tech_girl_gif" align="right" height="170" width="200" src="https://github.com/nibedita6302/nibedita6302/assets/145376728/b0d6e26a-6c93-4bcd-bc7f-0827edd6265e"/>
 </td>
 
 <!--
