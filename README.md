@@ -4,7 +4,7 @@
 <hr>
 <h3>My Projects</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=codeSTACKr&border_color=747474" alt="grocery store"     align="center" />  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=codeSTACKr&border_color=747474" alt="grocery store"     align="center" />  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Cyclone_Intensity_Estimation&theme=codeSTACKr&border_color=747474" alt="cyclone intensity" align="center" />
 </div>
 <hr>
