@@ -5,6 +5,6 @@
 <details>
   <summary>🔥 Github Profile Stats</summary>
   <br>
-  <img alt="github stats" align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=nibedita6302&show_icons=true&theme=codeSTACKr"/>
-  <img alt="most used language" align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibedita6302&size_weight=0.5&count_weight=0.5&layout=compact&theme=codeSTACKr"/>
+  <img alt="github stats" align="center" height=190 src="https://github-readme-stats.vercel.app/api?username=nibedita6302&show_icons=true&theme=codeSTACKr"/>
+  <img alt="most used language" align="center" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibedita6302&size_weight=0.5&count_weight=0.5&layout=compact&theme=codeSTACKr"/>
 </details>
