@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to Nibedita's Github Profile</h1>
-<a href="https://git.io/typing-svg"><img height="170" width="600" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=31&duration=4000&pause=200&background=FFC4F612&color=e1eb1f&center=true&vCenter=true&random=false&width=800&height=170&lines=Back-end+Developer;Proficient+in+Database+Design;Linux+Geek+;Experience+with+Image+Processing+and+CNN;Always+Curious+and+Creative+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img height="170" width="600" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=31&duration=4000&pause=200&background=FFC4F612&color=eb4b1f&center=true&vCenter=true&random=false&width=800&height=170&lines=Back-end+Developer;Proficient+in+Database+Design;Linux+Geek+;Experience+with+Image+Processing+and+CNN;Always+Curious+and+Creative+!" alt="Typing SVG" /></a>
 <img alt="tech_girl_gif" align="right" height="170" width="200" src="https://github.com/nibedita6302/nibedita6302/assets/145376728/b0d6e26a-6c93-4bcd-bc7f-0827edd6265e"/>
 <hr>
 <h3>My Projects</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=codeSTACKr&border_color=747474" alt="grocery store"     align="center" />  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Cyclone_Intensity_Estimation&theme=codeSTACKr&border_color=747474" alt="cyclone intensity" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=highcontrast&border_color=747474" alt="grocery store"     align="center" />  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Cyclone_Intensity_Estimation&theme=highcontrast&border_color=747474" alt="cyclone intensity" align="center" />
 </div>
 <hr>
 <details>
