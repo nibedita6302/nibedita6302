@@ -13,11 +13,11 @@
 <h3>🌐 My Projects</h3>
 <div align="center">
   <a href="https://github.com/nibedita6302/Online_Grocery_Store_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=ambient_gradient" alt="grocery store"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=codeSTACKr&border_color=808080" alt="grocery store"/> 
   </a> 
   &nbsp;
   <a href="https://github.com/nibedita6302/Cyclone_Intensity_Estimation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Cyclone_Intensity_Estimation&theme=ambient_gradient" alt="cyclone intensity" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Cyclone_Intensity_Estimation&theme=codeSTACKr&border_color=808080" alt="cyclone intensity" />
   </a>
 </div>
 <hr>
