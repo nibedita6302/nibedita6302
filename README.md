@@ -2,6 +2,43 @@
 <a href="https://git.io/typing-svg"><img height="170" width="600" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=31&duration=4000&pause=200&background=FFBEF918&color=F719C6FF&center=true&vCenter=true&random=false&width=800&height=170&lines=Back-end+Developer;Developed REST APIs;Proficient+in+Database+Design;Linux+Geek+;Experience+with+Image+Processing+and+CNN;Always+Curious+and+Creative+!" alt="Typing SVG" /></a>
 <img alt="tech_girl_gif" align="right" height="170" width="200" src="https://github.com/nibedita6302/nibedita6302/assets/145376728/b0d6e26a-6c93-4bcd-bc7f-0827edd6265e"/>
 <hr>
+<h3>🧩 My Talent Pool</h3>
+<table>
+  <tr>
+    <td>
+      <details>
+        <summary>Programming Languages</summary>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>Machine Learning</summary>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>Backend Development</summary>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <details>
+        <summary>Frontend Development</summary>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>Data Science</summary>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary>Soft Skills</summary>
+      </details>
+    </td>
+  </tr>
+</table>
 <h3>⭐ My Coding Journey</h3>
 <details>
   <summary>Leetcode</summary>
