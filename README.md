@@ -7,34 +7,51 @@
   <tr>
     <td>
       <details>
-        <summary>Programming Languages</summary>
+        <summary>Programming Languages</summary> 
+        <hr>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Python-darkblue?style=plastic&logo=python&logoColor=yellow" height="25"> 
       </details>
     </td>
     <td>
       <details>
-        <summary>Machine Learning</summary>
+        <summary>Database (RDBMS)</summary>
+        <hr>
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQLite_3-darkgreen?style=plastic&logo=sqlite&logoColor=white" height="25">
       </details>
     </td>
     <td>
       <details>
-        <summary>Backend Development</summary>
+        <summary>Data Science Tools</summary>
       </details>
     </td>
   </tr>
   <tr>
     <td>
       <details>
+        <summary>Backend Development</summary>
+        <hr> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/REST_API-fef50c?style=plastic&logo=academia&logoColor=purple" height="25">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Flask-white?style=plastic&logo=flask&logoColor=black" height="25"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/Flask_Security-black?style=plastic&logo=flask&logoColor=white" height="25">
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-%23eb3a1f?style=plastic&logo=SQLAlchemy&logoColor=black" height="25">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Celery-brightgreen?style=plastic&logo=celery&logoColor=black" height="25">
+      </details>
+    </td>
+    <td>
+      <details>
         <summary>Frontend Development</summary>
+        <hr>
+        <img alt="Static Badge" src="https://img.shields.io/badge/VueJS-grey?style=plastic&logo=vue.js&logoColor=green" height="25">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ffcba7?style=plastic&logo=Javascript&logoColor=black" height="25">
       </details>
     </td>
     <td>
       <details>
-        <summary>Data Science</summary>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary>Soft Skills</summary>
+        <summary>Additional Skills</summary>
+        <hr>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23ae1710?style=plastic&logo=git&logoColor=white" height="25">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Linux-purple?style=plastic&logo=linux&logoColor=white" height="25">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Postman-white?style=plastic&logo=postman&logoColor=red" height="25">
       </details>
     </td>
   </tr>
