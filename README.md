@@ -75,7 +75,11 @@
   </a>
   &nbsp;
   <a href="https://github.com/nibedita6302/Online_Grocery_Store_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=codeSTACKr&border_color=808080" alt="grocery store"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=codeSTACKr&border_color=808080" alt="library management"/> 
+  </a>
+  &nbsp;
+  <a href="https://github.com/nibedita6302/General_Health_Disorder_Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=General_Health_Disorder_Prediction&theme=codeSTACKr&border_color=808080" alt="general health prediction"/> 
   </a>
 </div>
 <hr>
