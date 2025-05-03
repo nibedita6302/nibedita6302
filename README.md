@@ -23,7 +23,7 @@
     </td>
     <td>
       <details>
-        <summary>Ariving soon...</summary> <!-- Data Science Tools -->
+        <summary>Arriving soon...</summary> <!-- Data Science Tools -->
       </details>
     </td>
   </tr>
