@@ -71,19 +71,19 @@
 <h3>🌐 My Projects</h3>
 <div align="left">
   <a href="https://github.com/nibedita6302/Library_Managment_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Library_Managment_System&theme=codeSTACKr&border_color=808080" alt="cyclone intensity" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Library_Managment_System&theme=omni&border_color=808080" alt="cyclone intensity" />
   </a>
   &nbsp;
   <a href="https://github.com/nibedita6302/Cyclone_Intensity_Estimation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Cyclone_Intensity_Estimation&theme=codeSTACKr&border_color=808080" alt="cyclone intensity" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Cyclone_Intensity_Estimation&theme=omni&border_color=808080" alt="cyclone intensity" />
   </a>
   &nbsp;
   <a href="https://github.com/nibedita6302/Online_Grocery_Store_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=codeSTACKr&border_color=808080" alt="library management"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=Online_Grocery_Store_App&theme=omni&border_color=808080" alt="library management"/> 
   </a>
   &nbsp;
   <a href="https://github.com/nibedita6302/General_Health_Disorder_Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=General_Health_Disorder_Prediction&theme=codeSTACKr&border_color=808080" alt="general health prediction"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nibedita6302&repo=General_Health_Disorder_Prediction&theme=omni&border_color=808080" alt="general health prediction"/> 
   </a>
 </div>
 <hr>
