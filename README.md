@@ -1,6 +1,6 @@
-<!--
 <h1 align="center">Welcome to Nibedita's Github Profile</h1>
-<a href="https://git.io/typing-svg"><img height="170" width="600" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=31&duration=4000&pause=200&background=FFBEF918&color=F719C6FF&center=true&vCenter=true&random=false&width=800&height=170&lines=Back-end+Developer; Developed REST APIs; Proficient+in+Database+Design; Linux+Geek+; Confident+with+Machine+Learning+Foundations; Experience+with+CNN+and+Image+Processing; Always+Curious+and+Creative+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img height="170" width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=31&duration=4000&pause=200&color=F719C6&background=FFBEF918&center=true&vCenter=true&width=800&height=170&lines=Back-end+Developer;Developed+REST+APIs;Experience+with+Machine+Learning+and+CNN;Always+Curious+and+Creative+!!" alt="Typing SVG" /></a>
+
 <img alt="tech_girl_gif" align="right" height="170" width="200" src="https://github.com/nibedita6302/nibedita6302/assets/145376728/b0d6e26a-6c93-4bcd-bc7f-0827edd6265e"/>
 <hr>
 <h3>🧩 My Talent Pool</h3>
@@ -11,6 +11,7 @@
         <summary>Programming Languages</summary> 
         <hr>
         <img alt="Static Badge" src="https://img.shields.io/badge/Python-darkblue?style=plastic&logo=python&logoColor=yellow" height="25"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=plastic&logo=java&logoColor=white" height="25"> 
       </details>
     </td>
     <td>
@@ -22,7 +23,7 @@
     </td>
     <td>
       <details>
-        <summary>Data Science Tools</summary>
+        <summary>Ariving soon...</summary> <!-- Data Science Tools -->
       </details>
     </td>
   </tr>
@@ -57,6 +58,7 @@
     </td>
   </tr>
 </table>
+<!--
 <h3>⭐ My Coding Journey</h3>
 <details>
   <summary>Leetcode</summary>
@@ -65,6 +67,7 @@
   </a>
 </details>
 <hr>
+-->
 <h3>🌐 My Projects</h3>
 <div align="left">
   <a href="https://github.com/nibedita6302/Library_Managment_System">
@@ -93,4 +96,4 @@
   <img alt="github stats" align="center" height=190 src="https://github-readme-stats.vercel.app/api?username=nibedita6302&show_icons=true&theme=codeSTACKr&title_color=e41feb"/>
   <img alt="most used language" align="center" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibedita6302&size_weight=0.5&count_weight=0.5&layout=compact&theme=codeSTACKr&title_color=e41feb"/>
 </details>
--->
+
