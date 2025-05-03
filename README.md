@@ -88,8 +88,8 @@
 </div>
 <hr>
 
-<!--<h3>🎗 Soft Skills</h3> -->
-<hr>
+<!--<h3>🎗 Soft Skills</h3> 
+<hr> -->
 <details>
   <summary>🔥 Github Profile Stats</summary>
   <br>
